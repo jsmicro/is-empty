@@ -1,0 +1,9 @@
+{
+    "preset": "google",
+    "validateIndentation": 4,
+    "requireCurlyBraces": null,
+    "maximumLineLength": null,
+    "disallowTrailingWhitespace": null,
+    "requireCamelCaseOrUpperCaseIdentifiers": null,
+    "requireSemicolons": null
+}
