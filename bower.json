@@ -1,5 +1,6 @@
 {
     "name": "jsmicro-is-empty",
+    "version": "1.0.1",
     "description": "Check does the given Javascript Object is empty.",
     "main": "index.js",
     "authors": [
