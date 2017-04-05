@@ -1,27 +1,27 @@
 {
-    "name": "@jsmicro/is-empty",
-    "version": "1.0.1",
-    "description": "Check does the given Javascript Object is empty.",
-    "main": "main.js",
-    "scripts": {
-        "test": "node test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+ssh://git@github.com/jsmicro/is-empty.git"
-    },
-    "keywords": [
-        "is-empty",
-        "isempty",
-        "empty"
-    ],
-    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/jsmicro/is-empty/issues"
-    },
-    "homepage": "https://github.com/jsmicro/is-empty#readme",
-    "devDependencies": {
-        "@jsmicro/test": "^1.0.1"
-    }
+  "name": "@jsmicro/is-empty",
+  "version": "1.0.2",
+  "description": "Check does the given Javascript Object is empty.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsmicro/is-empty.git"
+  },
+  "keywords": [
+    "is-empty",
+    "isempty",
+    "empty"
+  ],
+  "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsmicro/is-empty/issues"
+  },
+  "homepage": "https://github.com/jsmicro/is-empty#readme",
+  "devDependencies": {
+    "@jsmicro/test": "^1.0.1"
+  }
 }
