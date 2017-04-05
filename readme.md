@@ -30,11 +30,11 @@ bower install --save jsmicro-is-empty
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-empty
+npm install --save @jsmicro/is-empty
 ```
 
 ```js
-const obj = require('jsmicro-is-empty');
+const obj = require('@jsmicro/is-empty');
 
 // Available in the global object.
 isEmpty([]); // true

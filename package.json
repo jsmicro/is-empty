@@ -1,5 +1,5 @@
 {
-    "name": "jsmicro-is-empty",
+    "name": "@jsmicro/is-empty",
     "version": "1.0.1",
     "description": "Check does the given Javascript Object is empty.",
     "main": "main.js",
@@ -22,6 +22,6 @@
     },
     "homepage": "https://github.com/jsmicro/is-empty#readme",
     "devDependencies": {
-        "jsmicro-test": "^1.0.1"
+        "@jsmicro/test": "^1.0.1"
     }
 }
